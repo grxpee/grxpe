@@ -2,7 +2,7 @@
   <a href="https://www.grxpefruit.xyz"><img src="https://media.discordapp.net/attachments/847494515773538344/976071577642872842/c0aeac74408237.5c2ecf7c6e9be_1.png" alt="grxpe Banner" width="100%"></a>
 </p>
 <p align="center">
--grxpe-
+- grxpe -
 
 My Website: https://www.grxpefruit.xyz
 <p align="center">
